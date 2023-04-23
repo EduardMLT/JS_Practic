@@ -1,1 +1,1 @@
-# JS_Practic
+# JS_Practic -  з моїми доповненнями
